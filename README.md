@@ -1,1 +1,2 @@
-# Rusty-Project-
+The Rusty Project is a satirical, single-page landing page built to showcase modern CSS layout techniques. This project was developed as part of The Odin Project curriculum to practice the fundamentals of HTML and CSS, specifically focusing on Flexbox for layout management.
+The site is a joke "dealership" for project cars that are essentially piles of iron oxide.
